@@ -1,2 +1,1 @@
-# resume
-My resume from web development
+A quiz website project made with the html, css, js.
