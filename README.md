@@ -1,1 +1,1 @@
-A quiz website project made with the html, css, js.
+An fullstack web application . Made for interview preparation where anyone can solve dsa problems, reaad articles, watch videos related to dsa topics/problems. For frontend html, css, js, ejs used and for backend node.js, express.js, mongodb database used.
